@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hello! I'm Christina 😄
 
+**🔭 Tech Stack**
+
+![Python](https://img.shields.io/badge/python-FF2E63?style=for-the-badge&logo=python&logoColor=FFFFFF)
+![MySQL](https://img.shields.io/badge/MYSQL-F08705.svg?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
+![C](https://img.shields.io/badge/C-FFDB00.svg?style=for-the-badge&logo=C&logoColor=FFFFFF)
+
+![Java](https://img.shields.io/badge/java-897BFF?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/Github-7FE719.svg?style=for-the-badge&logo=github&logoColor=FFFFFF)
 <!--
 **ChristinaPinto-123/ChristinaPinto-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
