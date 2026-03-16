@@ -1,5 +1,10 @@
 ## Hello! I'm Christina 😄
 
+**📫 Reach Me Through**
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-40AEF0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christina-pinto-010a08281/)
+[![GMail](https://img.shields.io/badge/gmail-E0234E?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/christina-pinto-010a08281/)
+
 **🔭 Tech Stack**
 
 ![Python](https://img.shields.io/badge/python-FF2E63?style=for-the-badge&logo=python&logoColor=FFFFFF)
