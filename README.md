@@ -3,7 +3,7 @@
 **📫 Reach Me Through**
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-40AEF0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christina-pinto-010a08281/)
-[![GMail](https://img.shields.io/badge/gmail-E0234E?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/christina-pinto-010a08281/)
+[![GMail](https://img.shields.io/badge/gmail-E0234E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christinapinto1706@gmail.com)
 
 **🔭 Tech Stack**
 
