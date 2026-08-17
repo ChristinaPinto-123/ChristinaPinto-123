@@ -14,7 +14,7 @@
 ![Java](https://img.shields.io/badge/java-897BFF?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/Github-7FE719.svg?style=for-the-badge&logo=github&logoColor=FFFFFF)
 
-**My Contribution Graph**
+**🕹️ Pacman Contribution Graph**
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChristinaPinto-123/ChristinaPinto-123/output/pacman-contribution-graph-dark.svg">
