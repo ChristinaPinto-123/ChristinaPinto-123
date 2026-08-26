@@ -12,6 +12,7 @@
 ![C](https://img.shields.io/badge/C-FFDB00.svg?style=for-the-badge&logo=C&logoColor=FFFFFF)
 
 ![Java](https://img.shields.io/badge/java-897BFF?style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-FFDB00.svg?style=for-the-badge&logo=C&logoColor=FFFFFF)
 ![GitHub](https://img.shields.io/badge/Github-7FE719.svg?style=for-the-badge&logo=github&logoColor=FFFFFF)
 
 **🕹️ Pacman Contribution Graph**
